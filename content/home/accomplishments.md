@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2015-07-12'
     description: ''
-    organization: National Technical University of Athens
+    organization: NTUA
     organization_url: https://www.ntua.gr/en/
     title: High Performance Computing Workshop
     url: ''
