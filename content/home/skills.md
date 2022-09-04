@@ -21,7 +21,7 @@ feature:
     icon_pack: fas
     name: Software Development
   - description:
-    icon: chart-pie-solid
+    icon: flask
     icon_pack: fas
     name: Scientific Computing
   - description:
