@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer
     company: Nessos Information Systems S.A.
     company_url: ''
-    company_logo: ntua
+    company_logo: Nessos
     location: Athens
     date_start: '2017-07-03'
     date_end: '2020-12-31'
