@@ -39,7 +39,7 @@ content:
   directions: Enter Latrobe Hall and take the stairs to Office 310 on Floor 3
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: linkedin
+    - icon: linkedin-in
       icon_pack: fas
       name: DM Me
       link: 'https://www.linkedin.com/in/dimitris-tsapetis/'
