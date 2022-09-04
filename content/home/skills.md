@@ -24,6 +24,10 @@ feature:
     icon: cloud
     icon_pack: fas
     name: Cloud Computing
+  - description:
+    icon: gears
+    icon_pack: fas
+    name: DevOps
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
