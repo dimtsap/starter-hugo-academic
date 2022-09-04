@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: dimtsap@hotmail.com
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -43,14 +42,14 @@ content:
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+    - icon: linkedin
+      icon_pack: fas
+      name: Zoom Me
+      link: '[https://linkedin.com](https://www.linkedin.com/in/dimitris-tsapetis/)'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: '[https://zoom.com](https://JHUBlueJays.zoom.us/my/dtsapetis)'
 
 design:
   columns: '2'
