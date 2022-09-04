@@ -52,7 +52,7 @@ item:
   - certificate_url: https://www.goethe.de/de/index.html
     date_end: ''
     date_start: '2007-01-01'
-    organization: Goethe Institute
+    organization: Goethe Institut
     organization_url: https://www.goethe.de/de/index.html
     title: Zentrale MittelstufenPruefung
 
