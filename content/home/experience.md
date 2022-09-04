@@ -25,7 +25,6 @@ experience:
   - title: Software Engineer
     company: NComp
     company_url: ''
-    company_logo: ntua
     location: Athens
     date_start: '2020-02-01'
     date_end: '2020-12-31'
