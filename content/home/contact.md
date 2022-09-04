@@ -45,11 +45,11 @@ content:
     - icon: linkedin
       icon_pack: fas
       name: Zoom Me
-      link: '[https://linkedin.com](https://www.linkedin.com/in/dimitris-tsapetis/)'
+      link: 'https://www.linkedin.com/in/dimitris-tsapetis/'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: '[https://zoom.com](https://JHUBlueJays.zoom.us/my/dtsapetis)'
+      link: 'https://JHUBlueJays.zoom.us/my/dtsapetis'
 
 design:
   columns: '2'
