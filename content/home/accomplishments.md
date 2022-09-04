@@ -37,6 +37,24 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org/
     title: Scientific Computing
+  - certificate_url: https://www.autodesk.com/certification
+    date_end: ''
+    date_start: '2010-04-01'
+    organization: Autodesk
+    organization_url: https://www.autodesk.com/
+    title: AutoCAD 2D
+  - certificate_url: https://www.britishcouncil.gr/
+    date_end: ''
+    date_start: '2007-05-01'
+    organization: British Council
+    organization_url: https://www.britishcouncil.gr/en
+    title: Certificate of Proficiency in English
+  - certificate_url: https://www.goethe.de/de/index.html
+    date_end: ''
+    date_start: '2007-01-01'
+    organization: Goethe Institute
+    organization_url: https://www.goethe.de/de/index.html
+    title: Zentrale MittelstufenPruefung
 
 design:
   columns: '2'
