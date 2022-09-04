@@ -40,7 +40,7 @@ content:
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin-in
-      icon_pack: fas
+      icon_pack: fab
       name: DM Me
       link: 'https://www.linkedin.com/in/dimitris-tsapetis/'
     - icon: video
