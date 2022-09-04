@@ -21,9 +21,9 @@ feature:
     icon_pack: fas
     name: Software Development
   - description:
-    icon: cloud
+    icon: chart-mixed
     icon_pack: fas
-    name: Cloud Computing
+    name: Scientific Computing
   - description:
     icon: gears
     icon_pack: fas
