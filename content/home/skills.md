@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: 
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: Software Development
   - description:
-    icon: sensor-cloud
-    icon_pack: fab
+    icon: cloud
+    icon_pack: fas
     name: Cloud Computing
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
