@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: NComp
     company_url: ''
-    company_logo: ncomp
+    company_logo: ntua
     location: Athens
     date_start: '2020-02-01'
     date_end: '2020-12-31'
@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer
     company: Nessos Information Systems S.A.
     company_url: ''
-    company_logo: Nessos
+    company_logo: ntua
     location: Athens
     date_start: '2017-07-03'
     date_end: '2020-12-31'
