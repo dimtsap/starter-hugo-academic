@@ -21,8 +21,8 @@ feature:
     icon_pack: fas
     name: Software Development
   - description:
-    icon: chart-simple
-    icon_pack: fas
+    icon: chart-pie-solid
+    icon_pack: "custom"
     name: Scientific Computing
   - description:
     icon: gears
