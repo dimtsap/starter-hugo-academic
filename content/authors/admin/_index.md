@@ -67,4 +67,4 @@ highlight_name: true
 
 Experienced Civil Structural Engineer with a demonstrated history of working in the computer software industry. Skilled in C#, Python, Matlab, Analytical Skills and Engineering. Strong engineering professional with a Doctor of Philosophy (PhD) focused in Computational Methods from National Technical University of Athens.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
